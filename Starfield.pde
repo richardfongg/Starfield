@@ -33,7 +33,7 @@ class starstuff {
      myY = -50;
      mySpeed = mySpeed + 5;
    }
-   if(mySpeed > 300){
+   if(mySpeed > 400){
      background(255);
      textSize(40);
      text("Too fast womp womp womp :(", 100, 400);
